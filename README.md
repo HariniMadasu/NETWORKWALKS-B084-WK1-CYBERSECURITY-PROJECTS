@@ -1,4 +1,4 @@
-# 🕸️ Networkwalks – Cybersecurity Projects | Week 1
+# 🕸️ Networkwalks - Cybersecurity Projects | Week 1
 
 **Hands-on Cybersecurity Lab Setup • Network Traffic Analysis • Security Investigation**
 

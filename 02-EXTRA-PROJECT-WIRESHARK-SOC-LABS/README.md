@@ -136,8 +136,9 @@ The project demonstrates how captured network traffic can be examined to investi
 
 **Key Learning:** Gained introductory experience examining SIP/RTP traffic and understanding how protocol analysis can support communication investigations.
 
-![Follow TCP Stream](06-CATCH-THE-CALL-SCAMMER/screenshots/VoIP-call.png)
+![Follow TCP Stream](06-CATCH-THE-CALL-SCAMMER/screenshots/rtp.png)
 
+![Follow TCP Stream](06-CATCH-THE-CALL-SCAMMER/screenshots/VoIP-call.png)
 
 ---
 

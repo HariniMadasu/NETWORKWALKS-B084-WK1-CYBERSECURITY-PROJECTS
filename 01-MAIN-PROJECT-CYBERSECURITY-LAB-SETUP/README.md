@@ -339,9 +339,7 @@ This lab builds practical skills in Linux, networking, DNS, connectivity trouble
 
 - [Oracle VirtualBox](https://www.virtualbox.org/) — Virtualization platform.
 - [Kali Linux](https://www.kali.org/) — Operating system for cybersecurity practice.
-- [Nmap](https://nmap.org/) — Network discovery and security auditing.
 - [7-Zip](https://www.7-zip.org/) — Archive extraction utility, if used.
-- [GitHub](https://github.com/) — Repository hosting and project documentation.
 
 ---
 

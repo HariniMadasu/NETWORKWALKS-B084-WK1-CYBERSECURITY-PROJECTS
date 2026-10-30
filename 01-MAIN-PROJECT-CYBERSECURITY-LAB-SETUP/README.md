@@ -337,9 +337,9 @@ This lab builds practical skills in Linux, networking, DNS, connectivity trouble
 
 ## 11. Tools and Resources
 
-- [Oracle VirtualBox](https://www.virtualbox.org/) — Virtualization platform.
-- [Kali Linux](https://www.kali.org/) — Operating system for cybersecurity practice.
-- [7-Zip](https://www.7-zip.org/) — Archive extraction utility, if used.
+- [Oracle VirtualBox](https://www.virtualbox.org/) - Virtualization platform.
+- [Kali Linux](https://www.kali.org/) - Operating system for cybersecurity practice.
+- [7-Zip](https://www.7-zip.org/) - Archive extraction utility, if used.
 
 ---
 

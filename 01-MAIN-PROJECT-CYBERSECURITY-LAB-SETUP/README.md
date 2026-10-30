@@ -278,7 +278,7 @@ nmcli connection show
 sudo nmcli connection modify "Wired connection 1" ipv4.method manual ipv4.addresses 10.0.0.2/24 ipv4.gateway 10.0.0.1 ipv4.dns 10.0.0.1
 ```
 
-**Step 3: Adjust the duplicate address detection timeout setting.**
+**Step 3: Optional troubleshooting step (only if required)**
 
 ```bash
 sudo nmcli connection modify "Wired connection 1" ipv4.dad-timeout 0
